@@ -1,4 +1,4 @@
-<img src="https://github.com/bids-standard/bids-specification/blob/master/BIDS_logo/BIDS_logo_black_transparent_background_crop.png" alt="bids-logo" width="600"/>
+<img src="./BIDS_logo/BIDS_logo_black_transparent_background_crop.png" alt="bids-logo" width="600"/>
 
 # bep021
 Organizing and coordinating the BIDS Extension Proposal 21: Common Electrophysiology Derivatives
